@@ -45,6 +45,10 @@ body {
   background-color: #00425a;
 }
 
+#contacto {
+  padding: 2rem;
+}
+
 main {
   max-width: 1200px;
   margin: 0 auto;
